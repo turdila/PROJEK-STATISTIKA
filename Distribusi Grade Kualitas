@@ -1,0 +1,6 @@
+| No | Grade Kualitas | Jumlah Sampel | Persentase (%) | Keterangan      |
+| -- | -------------- | ------------- | -------------- | --------------- |
+| 1  | A (Premium)    | 60            | 35.3           | Kualitas Tinggi |
+| 2  | B (Standar)    | 61            | 35.9           | Kualitas Sedang |
+| 3  | C (Rendah)     | 49            | 28.8           | Kualitas Rendah |
+| 4  | Total          | 170           | 100            | Seluruh Dataset |
